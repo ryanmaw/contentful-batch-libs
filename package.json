@@ -2,7 +2,7 @@
   "name": "contentful-batch-libs",
   "description": "Library modules used by contentful batch utility CLI tools.",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "build": "npm run clean && babel lib --out-dir .",
     "clean": "npm run clean:build && rimraf coverage",
