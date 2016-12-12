@@ -8,9 +8,3 @@ node_modules
 contentful-space-sync-*
 test-*.json
 
-/get
-/push
-/transform
-/utils
-/index.js
-*.swp
